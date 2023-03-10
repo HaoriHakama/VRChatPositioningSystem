@@ -9,6 +9,7 @@ OSCで絶対座標(x, y, z)を取得するためのアバターです
 ## 使用方法
   1. VRChatでOSCをEnableにする
   2. main.pyを実行
+  3. 止まる <- ここ重要!!!!
   3. ExpressionMenuのVRCPS_Avatar -> 現在座標の測定
   4. 現在座標がターミナル表示されます
 
