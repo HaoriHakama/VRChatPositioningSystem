@@ -1,6 +1,6 @@
 # VRChatPositioningSystem(VRChat測位システム)
-VRChat Avatar for getting absolute coordinates relative to the world origin using OSC
-OSCで絶対座標(x, y, z)を取得するためのアバターです
+VRChat Avatar for getting absolute coordinates relative to the world origin using OSC  
+OSCで絶対座標(x, y, z)を取得するためのアバターです  
 
 ## 導入方法
   1. リポジトリ内のすべてのファイルをDL
